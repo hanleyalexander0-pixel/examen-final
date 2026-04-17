@@ -8,8 +8,10 @@ Después de ingresar los datos, el programa calcula automáticamente el promedio
 También me aseguré de validar que todas las notas estén entre 0 y 100 para evitar errores.
 
 # ejemplo-de-ejecucion
-![ejemplo](ejemplo1.jpeg)
-![Ejemplo](ejemplo2.jpg)
+<img width="1600" height="1200" alt="ejemplo1" src="https://github.com/user-attachments/assets/d0a715fb-2e79-4276-86ad-c07ca71c5699" />
+
+
+
 # como-funcionan-los-arreglos
 En mi programa usé arreglos para guardar los datos de los estudiantes. Utilicé un arreglo llamado nombres[] para guardar los nombres y otro llamado promedios[] para guardar el promedio de cada estudiante.
 
