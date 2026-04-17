@@ -8,7 +8,7 @@ Después de ingresar los datos, el programa calcula automáticamente el promedio
 
 También me aseguré de validar que todas las notas estén entre 0 y 100 para evitar errores.
 
-# ejemplo-de-ejecucion
+# ejemplo de ejecucion
 <img width="1600" height="1200" alt="ejemplo1" src="https://github.com/user-attachments/assets/d0a715fb-2e79-4276-86ad-c07ca71c5699" />
 <img width="1600" height="1200" alt="ejemplo2" src="https://github.com/user-attachments/assets/14d57de3-1b4d-4e96-9000-feb4bcb395e1" />
 
