@@ -1,4 +1,4 @@
-<img width="1600" height="1200" alt="ejemplo2" src="https://github.com/user-attachments/assets/272caf73-fde5-4959-b455-bbabe1fb2989" />
+
 # practica-final
 Descripción
 
