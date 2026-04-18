@@ -1,5 +1,5 @@
 
-# practica-final
+# gestion de calificacion de estudiantes
 Descripción
 
 En este programa lo que hice fue crear un sistema sencillo para registrar estudiantes con sus calificaciones. El usuario puede ingresar hasta 20 estudiantes, escribir su nombre y luego ingresar 4 notas por cada uno.
